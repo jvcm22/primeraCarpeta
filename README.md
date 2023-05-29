@@ -1,0 +1,2 @@
+# primeraCarpeta
+ficheroi de opciones
